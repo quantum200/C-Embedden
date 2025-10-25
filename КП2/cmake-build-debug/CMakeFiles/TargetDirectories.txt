@@ -1,0 +1,3 @@
+D:/кпи/3course/1semestr/C-Embedded/КП/КП2/cmake-build-debug/CMakeFiles/2.dir
+D:/кпи/3course/1semestr/C-Embedded/КП/КП2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/кпи/3course/1semestr/C-Embedded/КП/КП2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
